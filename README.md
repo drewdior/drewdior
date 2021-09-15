@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @drewdior
+- 👀 I’m interested in ... a partner that already has background knowledge
+- 🌱 I’m currently learning ... html/css
+- 💞️ I’m looking to collaborate on ... A website we can create so I can test my skills.
